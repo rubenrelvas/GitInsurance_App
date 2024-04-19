@@ -4,3 +4,6 @@ def add_policy():
 def remove_policy():
     print("remove old policy x")
 
+def list_policies():
+    print("list policies all")
+
